@@ -1,2 +1,2 @@
 # GraphMind
-The code of the paper 'Improving LLMs‘ Generalized Reasoning Abilities by Graph Problems' in COLM 2025
+"Improving LLMs‘ Generalized Reasoning Abilities by Graph Problems" in COLM 2025
